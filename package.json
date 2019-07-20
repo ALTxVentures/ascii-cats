@@ -17,7 +17,7 @@
     "asciiCats": "cmd.js"
   },
   "license": "MIT",
-  "author": "William Li <email@williamli.dev>",
+  "author": "William Li <email@williamli.dev> (https://williamli.dev)",
   "repository": {
     "type": "git",
     "url": "https://github.com/williamli/ascii-cats.git"
