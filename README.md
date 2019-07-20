@@ -1,11 +1,11 @@
-cat-me
+ascii-cats
 ----------------
 
 Returns some ASCII cats. You know, for spicing up your command line. With cats.
 
-[![NPM](https://nodei.co/npm/cat-me.png)](https://nodei.co/npm/cat-me/)
+[![NPM](https://nodei.co/npm/ascii-cats.png)](https://nodei.co/npm/ascii-cats/)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Build Status](https://secure.travis-ci.org/coleww/cat-me.png)](http://travis-ci.org/coleww/cat-me)
+[![Build Status](https://secure.travis-ci.org/williamli/ascii-cats.png)](http://travis-ci.org/williamli/ascii-cats)
 
 ### CONTRIBUTING
 
@@ -14,9 +14,9 @@ Add a cat with a clever name to cats.js and make sure it is properly formatted t
 ### EXAMPLE
 
 ```javascript
-var catMe = require('cat-me')
+var asciiCats = require('ascii-cats')
 
-catMe() // => returns a random cat
+asciiCats() // => returns a random cat
   /\ ___ /\
  (  o   o  )
   \  >#<  /
@@ -25,7 +25,7 @@ catMe() // => returns a random cat
 |           |     //
  \         /    //
   ///  ///   --
-catMe('nyan') // => returns a nyan cat
+asciiCats('nyan') // => returns a nyan cat
   ☆    ☆  ☆
 ┈┈┈┈ ╭━━━━━━╮  ☆
 ┈☆ ┈┈┃╳╳╳▕╲▂▂╱▏
@@ -37,7 +37,7 @@ catMe('nyan') // => returns a nyan cat
 
 ### CLI
 
-`npm install cat-me -g`
+`npm install ascii-cats -g`
 
 ```
 C A T   M E
@@ -77,7 +77,7 @@ Options:
   -h, --help  Show help                                                [boolean]
 
 Examples:
-  catMe
-  catMe nyan
+  asciiCats
+  asciiCats nyan
 
 ```
