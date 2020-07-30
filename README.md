@@ -9,7 +9,7 @@ Returns some ASCII cats. You know, for spicing up your command line. With cats.
 
 ### CONTRIBUTING
 
-Add a cat with a clever name to cats.js and make sure it is properly formatted too because my friend Travis personally hand checks every pull request to this repository.
+Add a cat with a clever name to cats.json and make sure it is properly formatted too because my friend Travis personally hand checks every pull request to this repository.
 
 ### EXAMPLE
 
